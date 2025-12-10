@@ -99,3 +99,7 @@ a:link {
     height: auto;
     display: block;
 }
+
+p {
+    font-size: 2em;
+}
